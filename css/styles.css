@@ -17,6 +17,10 @@ blockquote {
 }
 
 footer {
+	background: yellow;
+}
+
+section {
 	background: red;
 }
 	
