@@ -4,24 +4,30 @@ body {
 	background: #000;
 }
 
+p, h3 {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+h3 {
+	text-transform: uppercase; 
+
 header {
-	background: #0FF;
+	
 }
 
 nav {
-	background: #99C;
+	
 }
 
 blockquote {
-	background: #3C3;
+	
 }
 
 footer {
-	background: yellow;
+	
 }
 
 section {
-	background: red;
+	
 }
 	
 .container_12 {
